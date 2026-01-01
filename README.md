@@ -5,6 +5,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-yakhyo-black.svg?logo=github)](https://github.com/yakhyo)
 
+> [!TIP]  
+> The models and functionality in this repository are **integrated into [UniFace](https://github.com/yakhyo/uniface)** — an all-in-one face analysis toolkit.  
+> [![PyPI Version](https://img.shields.io/pypi/v/uniface.svg)](https://pypi.org/project/uniface/) [![GitHub Stars](https://img.shields.io/github/stars/yakhyo/uniface)](https://github.com/yakhyo/uniface/stargazers) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 ONNX Runtime inference for [AdaFace](https://github.com/mk-minchul/AdaFace) face recognition with [SCRFD](https://github.com/deepinsight/insightface) face detection.
 
 ## Models
